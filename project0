@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title> My WebPage! </title>
+      <link rel="stylesheet"  href=" C:\Users\ashik\Desktop\project0web.css">
+
+</head>
+ <body style="min-width: 100%;">
+    <header>
+      <form style= " float: right; margin-top: 20px; margin-right: 10px;"><div><input name="name" type="text" placeholder="Name">
+                 <input name="name" type="email" placeholder="email"></div>
+      <p style= "float: right; margin-top:10px;"><button>sign in</button></p>
+       </form>
+        <div class="header">
+            <h1 style="margin-left: 30px;">AXEE.org</h1>
+             <div class="logo">
+              <img src="C:\Users\ashik\Desktop\website\download.png ">
+             </div>
+        </div>
+   </header>
+
+   <navigation>
+
+     <div class= "navbar">
+            <ul>
+               <li class="active"><a href="#">Home</a></li>
+               <li><a href="C:\Users\ashik\Desktop\website\services.html">services</a></li>
+               <li><a href="C:\Users\ashik\Desktop\website\gallery.html"> gallery</a></li>
+               <li><a href="C:\Users\ashik\Desktop\website\about1.html">about</a></li>
+               <li><a href="C:\Users\ashik\Desktop\website\contact.html">contact us</a></li>
+               <li><a href="C:\Users\ashik\Downloads\bootsrap4\bs.html">Go To</a></li>
+            </ul>
+       </div>
+
+   </navigation>
+
+   <div class="paragraph">
+
+       <p> AXEE Assured sets the quality and speed benchmark for online shopping. AXEE unveils an inclusive customer-focused program that benefits everyone who shops on AXEE. AXEE Assured enables customers to enjoy a higher standard of shopping and faster, hassle-free shipping. Read this FAQ to learn more</p>
+       <p>Customers shopping on the AXEE desktop site, mobile app and mobile site will see the ‘AXEE Assured’ badge while browsing highly sought-after products across popular categories including Fashion, Mobile, Home Appliances,cars and bikes. Customers are guaranteed high quality and faster delivery on all products bearing the badge. The selection of products will be augmented over time as more and more products, along with a larger number of sellers, satisfy the rigorous evaluation criteria required to earn the badge.</p>
+
+   </div>
+
+
+
+
+   <content>
+    <div class="content" >
+     <img src="C:\Users\ashik\Pictures\ONLINE.JPG"
+    </div>
+        <div class="vertical-menu">
+          <a href="#">CARS</a>
+          <a href="#">BIKES</a>
+          <a href="#">GADGETS</a>
+          <a href="#">ELECTRONICS</a>
+          <a href="#">CAMERA</a>
+          <a href="#">FASHION</a>
+          <a href="#">HOME APPLIANCES</a>
+          <a href="#">CROOCKERY</a>
+          <a href="#">BEVERAGES</a>
+          <a href="#">OTHERS</a>
+        </div>
+<div class="paragraph1">
+ <P5 style="FONT-size: 15px; color: blue;">  MOST SEARCHED FOR ON AXEE:</P5>    Oneplus bullets wireless zHuawei gt 2e Smart Watch5G Mobiles AXEE Videos AXEE Pay LaterFlight Booking  Mi Air Purifier 2CiQOOO 3Studio FurnitureAir PurifiersVaporizerNebulizersHand SanitizerHand WashPollution MasksA.P.J Abdul Kalam BooksRakesh Yadav BooksChetan Bhagat  SmartwatchUnicorn ToysRedmi 8Honor 20iOPPO K1Realme 5Realme 5 ProFlipkart Axis Bank Credit CardRedmi K20Redmi K20 ProRealme 3iRealme XPhantom 9Redmi 7ARedmi Note 7SEarringsMens 5 masksSunglassesMi SunglassesAkshaya Tritiya
+    MOBILES:Realme X2Realme e.
+    <p2 style= "font-size:14px;">    CAMERA:GoPro Action CameraNikon CameraCanon CameraSony CameraCanon DSLRNikon DSLR  LAPTOPS:Microsoft Surface Go Pentium Gold 64GBMicrosoft LaptopsAsus LaptopsHP LaptopsGaming Laptops2 in 1 LaptopsBusiness Laptops
+    TVS:MI 43 Inch 4K TVMI 40 Inch TVMi 65 Inch TVSamsung 32 Smart TVLG TVTVSony TVSamsung TVMi  RefrigeratorWhirlpool Refrigerator
+    CLOTHING:Men ShirtsMen T-ShirtsMen SuitsMen TrousersMens esSilk SareesCotton SareesShortsBlouseLong SkirtsPalazzoMini DressesBanarsi SuitSportswearPaithani Sarees  FOOTWEAR:ShoesAdidas ShoesReebok ShoesNike ShoesPuma ShoesBootsBata ShoesWoodland ShoesSkechers ShoesSneakersWomens BootsSports ShoesLoafersCasual ShoesWomens Skechers ShoesFormal ShoesSchool Shoes  GROCERIES:PhonePe </p2>
+</div>
+    </content>
+
+
+<div class="pictures">
+     <div class="image1"><img src=C:\Users\ashik\Pictures\car1.jpg ></div>
+       <div class="image2"><img src=C:\Users\ashik\Pictures\bik.jpg></div>
+         <div class="image3"><img src=C:\Users\ashik\Pictures\gd.png><div>
+</div>
+
+<div class= "grid">
+
+
+   <div class= "grid-item">CAMERA </div>
+   <div class= "grid-item">WATCHES</div>
+   <div class= "grid-item">LAPTOPS</div>
+   <div class= "grid-item">ASSESSORIES </div>
+
+
+</div>
+
+<nesting>
+<div class="nesting">
+  <link rel="stylesheet" href="C:\Users\ashik\Desktop\New folder (3)\asi.css">
+  <div class="inside" >
+
+  <p3>What Can You Buy From AXEE?</p3>
+     <ul>
+       <li>Electronic Devices and Accessories</li>
+       <li>Mobile phones</li>
+       <li>Small Home Appliances</li>
+       <li>Lifestyle</li>
+       <li>Books, Sports and Games</li>
+      </ul>
+  </div>
+  <div class="outside">
+       <p3>AXEE: The One-stop Shopping Destination</p3>
+          <ul>
+            <li>No Cost EMI</li>
+            <li>Mobile Exchange Offers</li>
+            <li>Flipkart Plus</li>
+          </ul>
+  </div>
+</div>
+</nesting>
+
+
+
+<footer>
+  <div class="footer">
+
+       <ul>
+          <li>  HELP</li>
+          <li> Payments</li>
+          <li>Shipping</li>
+          <li>Cancellation&Returns</li>
+          <li>FAQ</li>
+          <li>Report Infringement</li>
+     </ul>
+     </div>
+
+
+</footer>
+
+
+
+<table>
+    <div class= "table" >
+
+    <tr>
+      <th>ITEM</th>
+      <th>PURCHASE RATE</th>
+    </tr>
+    <tr>
+      <td>Car</td>
+      <td>39%</td>
+    </tr>
+    <tr>
+        <td>Bike</td>
+        <td>65%</td>
+      </tr>
+      <tr>
+        <td>Mobile phone</td>
+        <td>88%</td>
+      </tr>
+      <tr>
+          <td>Gadgets</td>
+          <td>91.8%</td>
+        </tr>
+        <tr>
+            <td>Appliances</td>
+            <td>45%</td>
+          </tr>
+          <tr>
+            <td>Furniture</td>
+            <td>23%</td>
+          </tr>
+          <tr>
+              <td>clothing</td>
+              <td>93%</td>
+            </tr>
+</table>
+
+</body>
+</html>
